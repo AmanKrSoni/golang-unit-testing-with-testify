@@ -1,0 +1,14 @@
+mode: set
+github.com/AmanKrSoni/go-testing-example/internal/service/generate_book_mock.go:13.60,18.49 4 1
+github.com/AmanKrSoni/go-testing-example/internal/service/generate_book_mock.go:26.2,26.11 1 1
+github.com/AmanKrSoni/go-testing-example/internal/service/generate_book_mock.go:18.49,20.3 1 0
+github.com/AmanKrSoni/go-testing-example/internal/service/generate_book_mock.go:20.8,21.25 1 1
+github.com/AmanKrSoni/go-testing-example/internal/service/generate_book_mock.go:21.25,23.4 1 1
+github.com/AmanKrSoni/go-testing-example/internal/service/mock.go:16.37,18.2 1 1
+github.com/AmanKrSoni/go-testing-example/internal/service/mock.go:20.108,22.2 1 1
+github.com/AmanKrSoni/go-testing-example/internal/service/mock.go:24.51,27.2 2 1
+github.com/AmanKrSoni/go-testing-example/internal/service/mock.go:29.54,32.2 2 1
+github.com/AmanKrSoni/go-testing-example/internal/service/testsuite.go:16.54,18.2 1 0
+github.com/AmanKrSoni/go-testing-example/internal/service/testsuite.go:20.126,22.2 1 1
+github.com/AmanKrSoni/go-testing-example/internal/service/testsuite.go:24.79,27.2 2 1
+github.com/AmanKrSoni/go-testing-example/internal/service/testsuite.go:29.82,32.2 2 0
